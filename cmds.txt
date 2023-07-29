@@ -3,6 +3,6 @@ git push
 git status
 dir
 git add
-git commit
+git commit -m ""
 git rm
 1
