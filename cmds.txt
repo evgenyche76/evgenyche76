@@ -1,0 +1,8 @@
+git log
+git push
+git status
+dir
+git add
+git commit
+git rm
+1
