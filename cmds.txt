@@ -5,4 +5,7 @@ dir
 git add
 git commit -m ""
 git rm
-1
+git branch
+git branch --list
+git branch --list -v
+git checkout
