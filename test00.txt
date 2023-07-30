@@ -2,4 +2,3 @@ pm.test ("concol.log", function () {
 	var jsonData = pm.response.json();
 console.log(JSON.stringify(jsonData.results))
 });
-фокус покус труляля
